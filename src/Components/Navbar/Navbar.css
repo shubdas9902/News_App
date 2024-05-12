@@ -1,0 +1,42 @@
+.navbar-menu-list{
+    display:flex;
+    justify-content: center;
+    margin: 0;
+}
+.navbar-menu-list li{
+    list-style: none;
+    margin-bottom: 0px;
+    padding:40px;
+    font-size: 17px;
+}
+.navbar{
+    margin-top: 20px;
+}
+.NAV{
+    height: 200px;
+}
+.txt{
+    cursor: pointer;
+    text-decoration: none;
+    color:white;
+}
+
+@media(max-width:1170px){
+    .navbar-menu-list{
+        display: none;
+    }
+    .NAV{
+        height: 500px;
+    }
+    .navbar-width li{
+        list-style: none;
+        margin-bottom: 0px;
+        padding:10px;
+        font-size: 17px;
+    }
+    
+}
+.logo img{
+    height: 60px;
+    width: 60px;
+}

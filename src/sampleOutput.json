@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Antonio Planas",
+            "title": "Miss Teen USA UmaSofia Srivastava relinquishes crown days after Miss USA resigns - NBC News",
+            "description": "Miss Teen USA announced she’s stepping down Wednesday, two days after Miss USA said she is resigning and relinquishing her crown.",
+            "url": "https://www.nbcnews.com/news/us-news/miss-teen-usa-umasofia-srivastava-relinquishes-crown-days-miss-usa-res-rcna151354",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-05/240508-UmaSofia-Srivastava-ch-1639-23c0d1.jpg",
+            "publishedAt": "2024-05-09T14:27:00Z",
+            "content": "Miss Teen USA announced shes stepping down Wednesday, two days after Miss USA said she is resigning and relinquishing her crown.\r\nUmaSofia Srivastava, 17, posted on Instagram:After careful considerat… [+3418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "ANIMAL WELL – Launch Trailer – Nintendo Switch - Nintendo of America",
+            "description": "ANIMAL WELL is available now on Nintendo Switch: https://ninten.do/6058YpUi0  Hatch from your flower and spelunk through the beautiful and sometimes haunting...",
+            "url": "https://www.youtube.com/watch?v=dbamBO7BWwY",
+            "urlToImage": "https://i.ytimg.com/vi/dbamBO7BWwY/maxresdefault.jpg",
+            "publishedAt": "2024-05-09T14:00:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MICHAEL R. SISAK, JAKE OFFENHARTZ, JENNIFER PELTZ, COLLEEN LONG",
+            "title": "Trump hush money trial: Defense attorneys attack Stormy Daniels' credibility - The Associated Press",
+            "description": "Donald Trump’s defense attorneys are grilling Stormy Daniels on the transaction at the center of the former president’s hush money trial. The defense pressed Daniels on Thursday about why she accepted a $130,000 payment to keep quiet about her alleged sexual …",
+            "url": "https://apnews.com/article/trump-trial-hush-money-stormy-daniels-d8be160e53c8050bf788d7772f483a64",
+            "urlToImage": "https://dims.apnews.com/dims4/default/094fa46/2147483647/strip/true/crop/4032x2268+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Feb%2F91%2Faf8e89180f757693c73322686add%2Fbbbb48db796247e9af7b1cfe268a664f",
+            "publishedAt": "2024-05-09T13:52:00Z",
+            "content": "NEW YORK (AP) Donald Trumps defense attorneys grilled Stormy Daniels Thursday on the transaction at the center of the former presidents hush money trial, pressing her on why she accepted a $130,000 p… [+5304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "JESSICA DONATI",
+            "title": "Boeing 737 catches fire and skids off the runway at a Senegal airport, injuring 10 people - The Associated Press",
+            "description": "A Boeing 737 plane carrying 85 people has caught fire and skidded off a runway at the airport in Dakar, Senegal’s capital, injuring 10 people. Senegal's transport minister says the Air Sénégal flight operated by TransAir was headed to Bamako, in neighboring M…",
+            "url": "https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60",
+            "urlToImage": "https://dims.apnews.com/dims4/default/dcac1a4/2147483647/strip/true/crop/700x394+0+28/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+            "publishedAt": "2024-05-09T13:18:00Z",
+            "content": "DAKAR, Senegal (AP) A Boeing 737-300 plane carrying 85 people skidded off a runway at the airport in Dakar, Senegals capital, injuring 10 people, according to the transport minister, an airline safet… [+2484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "A crushing backlash to Apple's new iPad ad - Ars Technica",
+            "description": "New campaign depicting musical instruments and artistic tools being destroyed by a hydraulic press faces criticism",
+            "url": "https://www.ft.com/content/1f7314d7-577c-4263-a69f-b11757d85b4d",
+            "urlToImage": null,
+            "publishedAt": "2024-05-09T13:15:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Al Jazeera: Israeli forces raid studio in Nazareth, minister says - BBC.com",
+            "description": "The incident comes after Israel targeted another of the broadcaster's offices in Jerusalem on Sunday.",
+            "url": "https://www.bbc.com/news/articles/cpvg6pk7y9qo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1923/live/b8bd49a0-0dfb-11ef-9e32-2d2a670ddf16.jpg",
+            "publishedAt": "2024-05-09T13:15:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Gabe Hauari, Collin Bestor",
+            "title": "Crump wants answers about US Airman Roger Fortson's police shooting - USA TODAY",
+            "description": "Roger Fortson, an active-duty airman was killed by police in Florida last Friday, and his attorney says police may have entered the wrong apartment.",
+            "url": "https://www.usatoday.com/story/news/nation/2024/05/09/roger-fortson-death-okaloosa-county-sheriff-shooting/73624898007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2024/05/08/NNWF/73619645007-441454141-869248471895834-1411584953247858968-n.jpg?crop=525,296,x0,y157&width=525&height=296&format=pjpg&auto=webp",
+            "publishedAt": "2024-05-09T13:12:55Z",
+            "content": "An active-duty airman was shot and killed during a deputy-involved shooting in Fort Walton Beach, Florida, last Friday, and his attorney is saying the police may have entered the wrong apartment.\r\nAc… [+2544 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Big Blue View"
+            },
+            "author": "Ed Valentine",
+            "title": "Allen Robinson signing: New York Giants add veteran wide receiver - Big Blue View",
+            "description": "Giants continue adding pass catchers",
+            "url": "https://www.bigblueview.com/2024/5/9/24152694/allen-robinson-signing-new-york-giants-add-veteran-wide-receiver",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/-19xAsOwRuF02wlZSk9IJAIj1Sg=/0x228:3000x1799/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25440032/1741232671.jpg",
+            "publishedAt": "2024-05-09T13:08:17Z",
+            "content": "The New York Giants continued to add to their wide receiver room on Thursday, announcing the signing of veteran receiver Allen Robinson.\r\nRobinson, who will be 31 this season, started all 17 games fo… [+972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WDIV ClickOnDetroit"
+            },
+            "author": "Ken Haddad",
+            "title": "All of Michigan could see Northern Lights on Friday night: What to know - WDIV ClickOnDetroit",
+            "description": "All of Michigan will be in the mix to see Northern Lights on Friday night.",
+            "url": "https://www.clickondetroit.com/news/michigan/2024/05/09/all-of-michigan-could-see-northern-lights-on-friday-night-what-to-know/",
+            "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/L4KUFRM3VFGHFMRTAIOLA7LZRE.jpg?_a=ATAPphC0",
+            "publishedAt": "2024-05-09T13:00:36Z",
+            "content": "All of Michigan will be in the mix to see Northern Lights on Friday night.\r\nThe Space Weather Prediction Center issued a geomagnetic storm watch through Saturday, extending the field of possible Nort… [+2138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Reuters",
+            "title": "Roblox shares drop more than 20% as company cuts annual bookings forecast on muted player spending - CNBC",
+            "description": "Roblox cut its annual bookings forecast on Thursday, in a sign that people were dialing back on spending within its video-gaming platform.",
+            "url": "https://www.cnbc.com/2024/05/09/roblox-shares-drop-nearly-30percent-as-company-cuts-annual-bookings-forecast-on-muted-player-spending.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107283867-1691590529746-gettyimages-1232033982-RAFAPRESS_25032021-8120.jpeg?v=1715098452&w=1920&h=1080",
+            "publishedAt": "2024-05-09T12:39:40Z",
+            "content": "Roblox cut its annual bookings forecast on Thursday, in a sign that people were dialing back on spending within its video-gaming platform amid an uncertain economic outlook and elevated levels of inf… [+1706 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "CNBC US Source",
+            "title": "Weekly jobless claims jump to 231,000, the highest since August - CNBC",
+            "description": null,
+            "url": "https://www.cnbc.com/2024/05/09/weekly-jobless-claims-jump-to-231000-the-highest-since-august.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107412081-1715175010765-gettyimages-2151461294-JOB_OPENINGS.jpeg?v=1715175048&w=1920&h=1080",
+            "publishedAt": "2024-05-09T12:32:47Z",
+            "content": "Initial filings for unemployment benefits hit their highest level since late August 2023 in a potential sign that an otherwise robust labor market is changing.\r\nJobless claims totaled a seasonally ad… [+1739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Heat.com"
+            },
+            "author": "Charlotte Hornets",
+            "title": "Charlotte Hornets Name Charles Lee Head Coach - NBA.com",
+            "description": "Charlotte Hornets Executive Vice President of Basketball Operations Jeff Peterson announced today the team has hired Charles Lee as head coach. Lee, who brings 10 years of experience as an NBA assistant coach, will join the Hornets after concluding the NBA Pl…",
+            "url": "https://www.nba.com/hornets/news/charlotte-hornets-name-charles-lee-head-coach",
+            "urlToImage": "https://cdn.nba.com/teams/uploads/sites/1610612766/2024/05/head-coach-img-1920x1080-1.jpg",
+            "publishedAt": "2024-05-09T12:26:00Z",
+            "content": "May 9, 2024 Charlotte Hornets Executive Vice President of Basketball Operations Jeff Peterson announced today the team has hired Charles Lee as head coach. Lee, who brings 10 years of experience as a… [+3887 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2024 NFL offseason roundtable: Debating best and worst free agency signings, underrated draft picks, more - CBS Sports",
+            "description": "Three of our CBS Sports NFL writers discuss key questions entering the spring",
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-offseason-roundtable-debating-best-and-worst-free-agency-signings-underrated-draft-picks-more/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/05/08/899251b9-4855-48c6-ad9c-15d6e3dcdf10/thumbnail/1200x675/56bda98cde116ee61f1d9e65b9fb8e2c/danielle-hunter-2g.jpg",
+            "publishedAt": "2024-05-09T12:20:26Z",
+            "content": "Some major pillars of the NFL offseason have come and gone: the draft, free agency and blockbuster trades. Now, with the 2024 schedule around the corner, it feels like as good a time as any to revisi… [+7768 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Jennifer Maas",
+            "title": "Warner Bros. to Release First New ‘Lord of the Rings’ in 2026, Currently in Early Script Development - Variety",
+            "description": "Warner Bros. will release its first new 'Lord of the Rings' movie in 2026. Andy Serkis will direct 'The Hunt for Gollum,' while Peter Jackson produces.",
+            "url": "https://variety.com/2024/film/news/lord-of-the-rings-movie-2026-release-warner-bros-1235997102/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2021/12/Lord-of-the-Rings-Return-of-the-King.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-05-09T12:16:00Z",
+            "content": "Warner Bros. will release the first of its new batch of live-action “The Lord of the Rings” films in 2026, which will focus on Andy Serkis’ Gollum.\r\nOriginal “The Lord of the Rings” trilogy filmmaker… [+3334 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Mike Wall",
+            "title": "SpaceX fires up Starship rocket for upcoming 5th test flight (photos, video) - Space.com",
+            "description": "Starship's fourth test flight hasn't happened yet, but SpaceX is already gearing up for launch number five.",
+            "url": "https://www.space.com/spacex-starship-static-fire-flight-five",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kgtJoTiXX6SvTvppVwyBSB-1200-80.jpg",
+            "publishedAt": "2024-05-09T12:00:00Z",
+            "content": "The fourth test flight of SpaceX's Starship megarocket hasn't happened yet, but the company is already gearing up for launch number five.\r\nSpaceX conducted a \"static fire\" with a Starship upper stage… [+2751 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tennessean"
+            },
+            "author": "Tennessean",
+            "title": "Nashville area weather updates: Flood warnings remain after tornado - Tennessean",
+            "description": null,
+            "url": "https://www.tennessean.com/story/weather/2024/05/09/tennessee-weather-flood-warning-columbia-tornado/73624813007/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-09T11:46:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Bank of England moves closer to first rate cut since 2020 - Reuters",
+            "description": "By William Schomberg, David Milliken and Suban Abdulla",
+            "url": "https://www.reuters.com/markets/europe/bank-england-moves-closer-first-rate-cut-since-2020-2024-05-09/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HRCWHAZYMBLLTOZBL6O3AHHFHE.jpg?auth=48ed5a4c3f2991838b66e6f7993798580123114d13106d5854509de2e7208709&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-05-09T11:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Brian Windhorst",
+            "title": "Pacers file complaint to NBA over 78 calls, source says - ESPN",
+            "description": "The Pacers have submitted 78 plays to the NBA office that they felt went against them incorrectly during Games 1 and 2 against the Knicks, a source told ESPN.",
+            "url": "https://www.espn.com/nba/story/_/id/40111250/pacers-file-complaint-78-calls-nba-source-says",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0515%2Fr1012883_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-05-09T11:26:00Z",
+            "content": "The Indiana Pacers have submitted 78 instances of incorrect or non-calls to the NBA that they felt put them at a disadvantage in Games 1 and 2 against the New York Knicks, a league source told ESPN.\r… [+3529 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robyn Dixon",
+            "title": "Emboldened Russia celebrates Victory Day - The Washington Post",
+            "description": "Vladimir Putin delivered a bellicose speech on Red Square at a commemoration of the Soviet Union’s victory in World War II, signaling his confidence about Russia’s battlefield advances in Ukraine.",
+            "url": "https://www.washingtonpost.com/world/2024/05/09/russia-victory-day-parade-war-ukraine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/05-09-2024/t_3f658ea907574c3c8bbee63f337a2509_name_FHCLHQSL5QVNYVIEHQG7OOJ62Y.jpg&w=1440",
+            "publishedAt": "2024-05-09T11:19:33Z",
+            "content": "With his armies grinding forward in Ukraine, Vladimir Putin on Thursday marked Victory Day, the World War II commemoration that is Russias most significant holiday, with an unusually harsh speech, ac… [+136 chars]"
+        }
+    ]
+}
